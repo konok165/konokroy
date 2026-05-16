@@ -128,17 +128,6 @@ https://yourusername.github.io
 
 ---
 
-## Repository Structure
-
-```bash
-├── index.html
-├── README.md
-├── assets/
-│   ├── images/
-│   └── css/
-```
-
----
 
 ## Future Goals
 
@@ -149,8 +138,3 @@ I aim to continue research in:
 - Computational Materials Design
 - Sustainable Nanotechnology
 
----
-
-## License
-
-This project is open-source and available for academic and educational purposes.
